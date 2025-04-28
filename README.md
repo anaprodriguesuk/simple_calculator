@@ -25,6 +25,8 @@ It parses user input using **regular expressions** (`re` module).
 4. Open the folder where the file was saved.
 5. Enter the following command: ```bash python calculator.py
 
+---
+
 ## 📚 Utilised Technologies
 
 - Python 3
