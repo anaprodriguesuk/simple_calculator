@@ -23,22 +23,23 @@ It parses user input using **regular expressions** (`re` module).
 2. Download the `calculator.py` file.
 3. Launch your command prompt or terminal.
 4. Open the folder where the file was saved.
-5. Enter the following command:
+5. Enter the following command: ```bash python calculator.py
 
-```bash
-python calculator.py
+## 📚 Utilised Technologies
 
-📋 Example
+- Python 3
+- Regular Expressions (`re` module)
 
-What's the procedure? For instance, 5 + 3. or press "exit" to end the session: 8 * 7
-The result is: 56.0
-📚 Utilised Technologies
+---
 
-Python 3
-Regular Expressions (re module)
-✨ Upcoming Enhancements
+## ✨ Upcoming Enhancements
 
-Take decimal places (e.g., 5.5 + 2.3).
-Include support for more intricate expressions (like brackets).
-Use Tkinter to create a graphical user interface (GUI).
+- Accept decimal places (e.g., `5.5 + 2.3`).
+- Include support for more intricate expressions (like brackets).
+- Use Tkinter to create a graphical user interface (GUI).
+
+---
+
+Thank you for visiting my project! 🚀
+
 
